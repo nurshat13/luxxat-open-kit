@@ -4,12 +4,12 @@ The operating discipline of a one-person studio that ships mobile apps with a
 team of AI coding agents. One human holds the gates. The agents do the work, and
 an agent never accepts its own work.
 
-This is a DRAFT in a plain folder. It is a redacted copy of working files: every
-studio-specific fact is now a placeholder in angle brackets (`<founder>`,
+It is a redacted copy of the studio's working files: every studio-specific fact is a
+placeholder in angle brackets (`<founder>`,
 `<studio>`, `<app>`, `<brand-color>`, `<org>/<repo>`, `<studio-email>`).
 
 Written for a Flutter app studio; the stack lines (flutter clean, golden tests, FittedBox) are the parts to adapt first.
-Repo: https://github.com/nurshat13/luxxat-open-kit (private until the owner's review is done).
+Repo: https://github.com/nurshat13/luxxat-open-kit
 
 ## What is inside
 
@@ -59,4 +59,4 @@ https://luxxatlabs.com
 
 ## License
 
-MIT (proposed — founder to confirm)
+License: not set yet — the owner picks one (MIT proposed). Until then, all rights reserved; read and adapt for your own studio.
